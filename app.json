@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "8c22989b-e822-433f-8748-509f27a99e28"
+      }
+    },
+    "owner": "elki"
   }
 }
